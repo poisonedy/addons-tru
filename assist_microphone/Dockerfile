@@ -16,7 +16,8 @@ RUN \
         alsa-utils \
         python3 \
         python3-pip \
-    \
+   pulseaudio \
+   pulseaudio-utils
     && pip3 install --no-cache-dir -U \
         setuptools \
         wheel \
