@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Micro to player
+url: "https://github.com/poisonedy/addons-tru"
+maintainer: mi <poisone9@gmail.com>
